@@ -1,4 +1,4 @@
-
+custom Helper for Magnetic for macOS - automated-tasks and file-indexing is the best Magnetic for macOS helper, featuring automated-tasks and file-indexing. Safe, efficient, and
 
 
 
